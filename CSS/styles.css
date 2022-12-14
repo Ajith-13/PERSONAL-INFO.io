@@ -1,0 +1,23 @@
+body{
+    text_align: center;
+    width: 200px;
+    height: 200px;
+    position:absolute;
+    background-color: #E4F9F5;
+}
+.top_container {
+    background-color: #2192FF;
+    margin-bottom:0px;
+    top:0px;
+    left:50px;
+}
+.middle_container {
+    background-color: #38E54D;
+    width: 200px;
+    height: 200px;
+}
+.bottom_container {
+    background-color: #FDFF00;
+    width: 200px;
+    height: 200px;
+}
